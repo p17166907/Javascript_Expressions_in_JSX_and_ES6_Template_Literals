@@ -10,7 +10,7 @@ console.log(name); // prints: Evan
 ReactDOM.render(
   <div>
     <h1>Hello {name}!</h1>
-    <p>Your lucky number is {theNumber}</p>
+    <p>Your lucky number is {theNumber}!!!</p>
   </div>,
   document.getElementById("root")
 );
